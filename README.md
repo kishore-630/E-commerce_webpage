@@ -1,13 +1,4 @@
 # E-commerce_webpage
-Here is a **clean, professional, and GitHub-ready README format** that includes
-✔️ Your YouTube video sessions
-✔️ Website live demo link
-✔️ Clean section structure
-✔️ Professional tone
-
-You can **copy–paste this directly into your README.md**.
-
----
 
 # 🛒 ShopEase – Frontend E-Commerce Website
 
