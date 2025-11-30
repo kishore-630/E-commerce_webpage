@@ -21,7 +21,7 @@ Explore the live version of the website here:
 🎥 Project Review Video
 
 I have uploaded a complete review of the project on YouTube:
-👉 YouTube Review Video: (Add your link here)
+👉 **YouTube [Review] Video: (https://youtu.be/saF3sW5qbbo?si=To5ZDZAr_9L-xABv)**
 
 This video covers:
 
@@ -32,10 +32,6 @@ Page structure
 Code explanation
 
 Creative ideas used
-
-Challenges solved during development
-👉 **YouTube Link[view]:(https://youtu.be/saF3sW5qbbo?si=To5ZDZAr_9L-xABv)**
-A full demonstration of the working website after deployment.
 
 ---
 
