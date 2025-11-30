@@ -9,14 +9,14 @@
 ## 🌐 **Live Demo**
 
 Explore the live version of the website here:
-👉 **[View Website](#)** *(Replace # with your deployed link)*
+👉 **[View Website](#)** 
 
-<img width="1209" height="12545" alt="Image" src="https://github.com/user-attachments/assets/12d583ea-3fa2-4165-9ab2-a12724465970" />
+
 ---
 
 🎥 Project Review Video
 
-I have uploaded a complete review and explanation of the project on YouTube:
+I have uploaded a complete review of the project on YouTube:
 👉 YouTube Review Video: (Add your link here)
 
 This video covers:
