@@ -11,9 +11,12 @@
 Explore the live version of the website here:
 👉 **[View Website](https://e-commerce-shopnow.netlify.app/)** 
 
+**Laptop and Mobile Demo**
 <img width="1911" height="1031" alt="Image" src="https://github.com/user-attachments/assets/ea0c6148-2436-40e1-830d-2d2fbcb705bb" />
+![Image](https://github.com/user-attachments/assets/af9aeb42-7fcf-4aac-8744-1a4dc84efc65)
 <img width="1911" height="1070" alt="Image" src="https://github.com/user-attachments/assets/e5a86c06-548f-4c0e-a590-43579efb4e30" />
 <img width="1911" height="1068" alt="Image" src="https://github.com/user-attachments/assets/057999e8-0068-440c-a48e-15a3fbf4b0c5" />
+![Image](https://github.com/user-attachments/assets/24b6dcce-7f75-46d1-9979-539e4b0d66d6)
 <img width="1905" height="1070" alt="Image" src="https://github.com/user-attachments/assets/45ed5693-afab-40b0-8080-c242f3102540" />
 
 ---
@@ -21,6 +24,7 @@ Explore the live version of the website here:
 🎥 Project Review Video
 
 I have uploaded a complete review of the project on YouTube:
+
 👉 **YouTube [Review] Video: (https://youtu.be/saF3sW5qbbo?si=To5ZDZAr_9L-xABv)**
 
 This video covers:
@@ -125,7 +129,11 @@ This project helped me strengthen my abilities in:
 
 ## 📸 **Screenshots**
 
-*(Add your screenshots here)*
+*(![Image](https://github.com/user-attachments/assets/0032f1e5-0f2a-4685-bf4e-d345df529682)
+
+![Image](https://github.com/user-attachments/assets/80a91944-3b14-4b73-9d0e-5257d13e2665)
+
+![Image](https://github.com/user-attachments/assets/3678b292-856f-45c6-8aa5-21324bb6dca7))*
 
 ---
 
