@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ShopEase Login</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      height: 100vh;
+      background: url('https://img.freepik.com/free-vector/business-hand-drawn-e-commerce-landing-page_23-2149600513.jpg?semt=ais_hybrid&w=740&q=80') no-repeat center/cover ;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding-top: 40px;
+    }
+
+    /* Made in India Banner */
+    .banner {
+      font-size: 38px;
+      font-weight: bold;
+      background: rgba(46, 230, 18, 0.8);
+      padding: 12px 22px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      backdrop-filter: blur(5px);
+      margin-bottom: 30px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+    }
+
+    .banner .flag {
+      font-size: 40px;
+    }
+
+    .banner .heart {
+      color: rgb(249, 19, 19);
+      animation: beat 1.4s infinite;
+    }
+
+    @keyframes beat {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+
+    /* Login Card */
+    .login-card {
+      background: rgba(29, 201, 244, 0.9);
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      padding: 40px;
+      width: 350px;
+      text-align: center;
+      backdrop-filter: blur(6px);
+    }
+
+    .login-card h2 {
+      margin-bottom: 20px;
+      color: #ff6f61;
+    }
+
+    input {
+      width: 100%;
+      
+      padding: 12px;
+      margin: 10px 0;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 15px;
+    }
+
+    .btn {
+      background: #d4f747;
+      color: #0e0707;
+      border: none;
+      padding: 12px;
+      width: 100%;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 17px;
+      margin-top: 11px;
+    }
+
+    .btn:hover {
+      background: #e85c50;
+    }
+
+    .extra-links {
+      margin-top: 15px;
+      font-size: 14px;
+    }
+    .extra-links a {
+      color: #ff6f61;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!--  MADE IN INDIA BANNER -->
+  <div class="banner">
+    <span class="heart">❤</span>
+    MADE IN INDIA
+    <span class="heart">❤</span>
+  </div>
+
+  <!-- LOGIN CARD -->
+  <div class="login-card">
+    <h2>🛒 Welcome to Kishore's Fashions</h2>
+
+    <input type="text" id="username" placeholder="Email or Username">
+    <input type="password" id="password" placeholder="Password">
+
+    <!-- Redirect to home page -->
+    <button class="btn" onclick="validateLogin()">Login</button>
+
+    <div class="extra-links">
+      <a href="#">New to Shopping? Create your account</a>
+    </div>
+  </div>
+  <!--  LOGIN VALIDATION SCRIPT -->
+  <script>
+    function validateLogin() {
+      let user = document.getElementById("username").value;
+      let pass = document.getElementById("password").value;
+
+      if (user === "" || pass === "") {
+        alert("⚠ Please enter both Username and Password!");
+        return;
+      }
+
+      // Redirect to home page if filled
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>
