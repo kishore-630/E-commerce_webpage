@@ -1,5 +1,4 @@
 # E-commerce_webpage
-
 # 🛒 ShopEase – Frontend E-Commerce Website
 
 *A modern, responsive online shopping UI built using HTML, CSS, and JavaScript.*
@@ -58,7 +57,7 @@ The focus was on improving UI/UX quality, building structured code, and deliveri
 
 ## 💡 **My Development Journey**
 
-### 🔸 **Challenges I Faced**
+### 🔸 **Challenges  Faced**
 
 During the development process, I struggled with:
 
@@ -148,13 +147,9 @@ This project helped me strengthen my abilities in:
 
 ## 🧑‍💻 **Author**
 
-**Kishore Kumar**
-Frontend Developer | Passionate About UI/UX
+**Kishore Kumar Gurrala**
+Frontend Developer | Passionate About web development 
 
-📧 Email: *(optional)*
+📧 Email: *(kishorekumargurrala225@gmail.com)*
 🔗 GitHub: *(your GitHub URL)*
-▶️ YouTube: *(your YouTube channel link)*
 
----
-
-If you want, I can **format this exactly as a README.md file with markdown styling** and include decorations, badges, emojis, or a more minimal professional style.
